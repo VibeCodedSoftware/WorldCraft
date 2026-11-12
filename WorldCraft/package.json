@@ -1,0 +1,26 @@
+{
+  "name": "worldcraft",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WorldCraft - procedural worlds for GameCraft: terrain, trees, rocks, scatter, water, roads, snow, seasons and structures.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5176",
+    "start": "vite --port 5176 --open",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit -p ."
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.1",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.3.4",
+    "typescript": "5.6.3",
+    "vite": "5.4.11",
+    "vitest": "2.1.8"
+  }
+}
