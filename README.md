@@ -22,7 +22,7 @@ See `BUILD_STATUS.md` in the source for what is finished and what is not yet.
 
 ## Download
 
-Get the latest version from the [Releases page](https://github.com/DFairGamz/WorldCraft/releases/latest):
+Get the latest version from the [Releases page](https://github.com/VibeCodedSoftware/WorldCraft/releases/latest):
 
 | File | What it is |
 |---|---|
